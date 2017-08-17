@@ -1,0 +1,22 @@
+{
+  "name": "5parser",
+  "version": "1.0.0",
+  "description": "Parses JavaScript files with unique hash-table of regex patterns for errors",
+  "main": "index.js",
+  "bin": {
+    "5parse": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyHinshaw/5parser.git"
+  },
+  "author": "Danny Hinshaw <danny@nulleffort.com> (http://nulleffort.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyHinshaw/5parser/issues"
+  },
+  "homepage": "https://github.com/DannyHinshaw/5parser#readme"
+}
